@@ -62,6 +62,8 @@ ggplot(df_cleaned, aes(x = factor(Churn))) +
 
 
 
+<img width="684" alt="Screenshot 2024-09-26 at 9 39 56 PM" src="https://github.com/user-attachments/assets/fe728139-7a4e-447c-b4df-b69dd60eae37">
+
 
 
 
