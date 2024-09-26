@@ -82,6 +82,7 @@ ggplot(df_cleaned, aes(x = Customer_Age, fill = factor(Churn))) +
   theme_minimal()
 
 
+<img width="685" alt="Screenshot 2024-09-26 at 9 41 12 PM" src="https://github.com/user-attachments/assets/7b6f7ec7-bdf0-489e-92e4-f7cb9d4bd52c">
 
 
 
@@ -100,6 +101,7 @@ ggplot(df_cleaned, aes(x = factor(Churn), y = Credit_Limit, fill = factor(Churn)
   theme_minimal()
 
 
+<img width="686" alt="Screenshot 2024-09-26 at 9 41 51 PM" src="https://github.com/user-attachments/assets/6bcd9026-305c-46d0-9ae0-c42ddd04c7a8">
 
 
 
@@ -115,6 +117,10 @@ ggplot(df_cleaned, aes(x = Credit_Limit, y = Total_Trans_Amt, color = factor(Chu
   labs(x = "Credit Limit", y = "Total Transaction Amount", title = "Total Transaction Amount vs Credit Limit") +
   theme_minimal()
   
+
+
+<img width="684" alt="Screenshot 2024-09-26 at 9 42 32 PM" src="https://github.com/user-attachments/assets/a4ce0cb5-5301-4565-b64c-e03d1f8acfdf">
+
 
 ---
 
